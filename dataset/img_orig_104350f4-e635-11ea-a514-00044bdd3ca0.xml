@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>img_orig_104350f4-e635-11ea-a514-00044bdd3ca0.jpg</filename>
+	<path>/home/ivan/ComputerVision/beltvision-training/dataset/img_orig_104350f4-e635-11ea-a514-00044bdd3ca0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>splice</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>3</ymin>
+			<xmax>550</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

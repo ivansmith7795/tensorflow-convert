@@ -1,0 +1,26 @@
+<annotation>
+	<folder>beltvision_raw_splices</folder>
+	<filename>frame11532.jpg</filename>
+	<path>/root/ComputerVision/imageflip/beltvision_raw_splices/frame11532.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>splice</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>3</ymin>
+			<xmax>275</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

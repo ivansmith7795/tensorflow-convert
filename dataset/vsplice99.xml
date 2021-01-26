@@ -1,0 +1,26 @@
+<annotation>
+	<folder>captures</folder>
+	<filename>vsplice99.jpg</filename>
+	<path>/home/ivan/ComputerVision/beltvision-training/captures/vsplice99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>splice_vulcanized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>16</ymin>
+			<xmax>529</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+</annotation>

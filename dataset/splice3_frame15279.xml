@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>splice3_frame15279.jpg</filename>
+	<path>/home/ivan/ComputerVision/beltvision-training/dataset/splice3_frame15279.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>splice</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>6</ymin>
+			<xmax>227</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>voc_annotations</folder>
+  <filename>augment99.jpg</filename>
+  <path>/home/ivan/ComputerVision/beltvision-training/capturesaugment99.jpg</path>
+  <source>
+    <database>unkown</database>
+  </source>
+  <size>
+    <width>1728</width>
+    <height>3072</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>splice_vulcanized</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>198.3031</xmin>
+      <ymin>-136.02148</ymin>
+      <xmax>1788.487</xmax>
+      <ymax>3078.3267</ymax>
+    </bndbox>
+  </object>
+</annotation>

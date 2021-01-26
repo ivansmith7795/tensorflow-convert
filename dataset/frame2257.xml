@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>frame2257.jpg</filename>
+	<path>/home/ivan/ComputerVision/beltvision-training/dataset/frame2257.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>splice</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>1</ymin>
+			<xmax>449</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

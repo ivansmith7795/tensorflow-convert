@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>frame471.jpg</filename>
+	<path>/home/ivan/ComputerVision/beltvision-splice-classifier/data/frame471.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>splice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>3</ymin>
+			<xmax>516</xmax>
+			<ymax>1023</ymax>
+		</bndbox>
+	</object>
+</annotation>
